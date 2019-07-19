@@ -33,7 +33,7 @@ EMAIL_HOST='smtp.gmail.com'
 
 EMAIL_HOST_USER='akhiltaj98@gmail.com'
 
-EMAIL_HOST_PASSWORD ='akhil1234'
+EMAIL_HOST_PASSWORD ='********'
 
 EMAIL_PORT=587
 
